@@ -162,7 +162,7 @@ img {
 
 /* Hero */
 .hero {
-  background: #000 url('../images/header-background.jpg') center center/cover
+  background: #000 url('../header-background.jpg') center center/cover
     no-repeat;
   padding: 11.5rem 2rem 8rem;
   color: #fff;
@@ -454,7 +454,7 @@ img {
 }
 /* Info Section */
 .info-container {
-  background: url('../images/audience.jpg') top center/cover no-repeat;
+  background: url('../audience.jpg') top center/cover no-repeat;
   display: flex;
 }
 
@@ -550,7 +550,7 @@ img {
 }
 /* Stats */
 .stats {
-  background: #000 url('../images/stats-background.jpg') center center/cover
+  background: #000 url('../stats-background.jpg') center center/cover
     no-repeat;
   color: #fff;
 }
